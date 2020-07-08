@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <style>
+    .box {
+        border:5px lightblue solid;
+        border-top-left-radius:20px;
+        border-bottom-right-radius:40px;
+    }
+
+    h2 {
+      background: url(star.png) no-repeat left center ,url(star.png)repeat-y right center ;
+      text-align:center;
+    }
+</style>
+</head>
+<body>
+    <div class="box">
+        <h2>Backgrounds & Borders</h2>
+    </div>
+</body>
+</html>
